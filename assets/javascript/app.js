@@ -121,7 +121,7 @@ $(document).ready(function() {
         },
         // question 10
         {
-            "q": "What was the defualt name for the protagonist of Pokemon Red and Blue?",
+            "q": "What was the default name for the protagonist of Pokemon Red and Blue?",
             "c": ["Ash", "Blue", "Red"],
             "answer": 2
         }
